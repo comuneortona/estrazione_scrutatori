@@ -9,6 +9,6 @@ Su sistemi Micosoft potete scaricare il tool File Checksum Integrity Verifier al
 //
                 MD5                             SHA-1
 -------------------------------------------------------------------------
-ca8de49a20d609008a6e50be3ca60ec7 c7148e279783ea9a52507c92034d6982ea03ae10 estrazione.xls
+e3eab04b8a3991754c76e38a2197ec3b ff0eb1631e5945f7f288a7c331728b93fceb44f7 estrazione.xls
 
 Il codice sorgente della Macro presente nel file xls può essere consultato direttamente da excel o aprendo il file sorgente.vba presente in questo repository.
